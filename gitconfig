@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = sofiamcr@gmail.com
+	name = Sofia CachoRuschner
